@@ -51,7 +51,7 @@ for process_number in csv_processes_file_names:
     
     path_to_process = os.path.join(directory_to_processes, process_number)  # Full path to every process file (using os)
     
-    measurements = np.loadtxt(path_to_process, delimiter=",", skiprows=1) # Loading data from process n1..n2...n8 skipping the first row as it is the headline
+    measurements = np.loadtxt(path_to_process, delimiter=",", skiprows=1, usecols=(0, 1, 2)) # Loading data from process n1..n2...n8 skipping the first row as it is the headline
     
     all_measurements.append(measurements) # Append to the main list
 
