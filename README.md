@@ -1,7 +1,7 @@
 # 👨‍💻 About the Author
 This project was developed during my research internship at **Montanuniversität Leoben (Austria)** 🇦🇹 as part of the MULgrain Excellence Scholarship.
 
-* **Connect with me:** [LinkedIn Profile](tu-link-a-linkedin) (See full portfolio & certifications)
+* **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/david-alejandro-de-los-reyes-ostos-0b808521a/) (See full portfolio & certifications)
 * **Portfolio:** [plasticket-app.com](https://plasticket-app.com)
 
 # 🔬 Laser Vias Metrology Automation
