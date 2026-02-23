@@ -1,3 +1,9 @@
+## 👨‍💻 About the Author
+This project was developed during my research internship at **Montanuniversität Leoben (Austria)** 🇦🇹 as part of the MULgrain Excellence Scholarship.
+
+* **Connect with me:** [LinkedIn Profile](tu-link-a-linkedin) (See full portfolio & certifications)
+* **Portfolio:** [plasticket-app.com](https://plasticket-app.com)
+
 # 🔬 Laser Vias Metrology Automation
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
