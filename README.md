@@ -1,9 +1,3 @@
-# 👨‍💻 About the Author
-This project was developed during my research internship at **Montanuniversität Leoben (Austria)** 🇦🇹 as part of the MULgrain Excellence Scholarship.
-
-* **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/david-alejandro-de-los-reyes-ostos-0b808521a/) (See full portfolio & certifications)
-* **Portfolio:** [plasticket-app.com](https://plasticket-app.com)
-
 # 🔬 Laser Vias Metrology Automation
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
@@ -98,5 +92,11 @@ NumPy & Pandas: Data manipulation, boolean masking, and tabular reporting.
 SciPy: Statistical modeling and curve fitting algorithms.
 
 Matplotlib: Data visualization (Histograms and subplot generation).
+
+## 👨‍💻 About the Author
+This project was developed during my research internship at **Montanuniversität Leoben (Austria)** 🇦🇹 as part of the MULgrain Excellence Scholarship.
+
+* **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/david-alejandro-de-los-reyes-ostos-0b808521a/) (See full portfolio & certifications)
+* **Portfolio:** [plasticket-app.com](https://plasticket-app.com)
 
 **Developed by David Alejandro De Los Reyes Ostos as part of the Computational Data Analysis in Materials Science curriculum (Montanuniversität Leoben).**
