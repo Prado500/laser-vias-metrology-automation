@@ -97,5 +97,6 @@ Matplotlib: Data visualization (Histograms and subplot generation).
 This project was developed during my research internship at **Montanuniversität Leoben (Austria)** 🇦🇹 as part of the MULgrain Excellence Scholarship.
 
 * **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/david-alejandro-de-los-reyes-ostos-0b808521a/) (See full portfolio & certifications)
-
+  
+* 🚀 **See my Full Stack Work:** [Plasticket App](https://plasticket-app.com) (Award-winning Logistics Platform Demo)
 **Developed by David Alejandro De Los Reyes Ostos as part of the Computational Data Analysis in Materials Science curriculum (Montanuniversität Leoben).**
