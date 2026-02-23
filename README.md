@@ -42,8 +42,15 @@ laser-vias-metrology-automation/
 └── README.md                   # Documentation
 ```
 
-## 📊 Visual Results (outputs/figures)
-The script generates histograms comparing raw sensor data against the calculated Gaussian model to identify quality trends. The figures per process are stored within outputs/figures directory.
+## 📊 Visual Results
+The script automates the generation of comparative plots, mapping raw sensor data against calculated Gaussian models to identify manufacturing trends.
+
+| Top Diameter Analysis (Example) | Bottom Diameter Analysis (Example) |
+| :---: | :---: |
+| ![Top Fit](outputs/figures/process_1/top_fit_plot.png) | ![Bottom Fit](outputs/figures/process_1/bottom_fit_plot.png) |
+| *Gaussian curve fitting for Top measurements* | *Gaussian curve fitting for Bottom measurements* |
+
+> **Note:** The complete set of figures for all 8 processes is automatically organized within the `outputs/figures/` directory.
 
 ## 💻 Highlighted Code 
 **SnippetGaussian Fit Implementation:**The core of the analysis uses SciPy to fit the normal distribution curve to the noisy sensor data, optimizing parameters ($A$, $\mu$, $\sigma$).
