@@ -1,4 +1,4 @@
-## 👨‍💻 About the Author
+# 👨‍💻 About the Author
 This project was developed during my research internship at **Montanuniversität Leoben (Austria)** 🇦🇹 as part of the MULgrain Excellence Scholarship.
 
 * **Connect with me:** [LinkedIn Profile](tu-link-a-linkedin) (See full portfolio & certifications)
