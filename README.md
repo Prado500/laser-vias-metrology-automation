@@ -45,10 +45,10 @@ laser-vias-metrology-automation/
 ## 📊 Visual Results
 The script automates the generation of comparative plots, mapping raw sensor data against calculated Gaussian models to identify manufacturing trends.
 
-| Top Diameter Analysis (Example) | Bottom Diameter Analysis (Example) |
+| Top and Botton Diameter Analysis (Cutting Process 1 of 8) | Important Metrics Analysis (Cutting Process 1 of 8) |
 | :---: | :---: |
-| ![Top Fit](outputs/figures/process_1/top_fit_plot.png) | ![Bottom Fit](outputs/figures/process_1/bottom_fit_plot.png) |
-| *Gaussian curve fitting for Top measurements* | *Gaussian curve fitting for Bottom measurements* |
+| ![Gaussian Fit](outputs/figures/process_1/figure_process_1.jpg) | ![Important Metrics](outputs/figures/process_1/process_1_important_parameters.png) |
+| *Gaussian curve fitting for Top and Bottom measurements* | *Relevant metrics to assess lasser-vias quality* |
 
 > **Note:** The complete set of figures for all 8 processes is automatically organized within the `outputs/figures/` directory.
 
